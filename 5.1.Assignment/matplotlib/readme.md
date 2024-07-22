@@ -4,6 +4,7 @@
 
 1. Simple Plot 
 <br/>
+
 ![alt text](output/plot.png)
 <br/>
 <br/>
